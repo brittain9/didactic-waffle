@@ -1,0 +1,23 @@
+# ninja log v5
+816	935	1677634271477727678	OpenGL	908f2ced24c6d3df
+0	34	1677634318496136430	build.ninja	dc22ce412dd45d53
+0	261	1677623374417247540	CMakeFiles/OpenGL.dir/main.cpp.o	9628827f663fc5cd
+376	552	1677634271092855164	src/vendor/glfw-3.3.8/src/CMakeFiles/glfw.dir/osmesa_context.c.o	43a66cacd33b2196
+0	367	1677634270904226196	src/vendor/glfw-3.3.8/src/CMakeFiles/glfw.dir/context.c.o	ad4bdc7eb228f842
+1	570	1677634271109850948	src/vendor/glfw-3.3.8/src/CMakeFiles/glfw.dir/cocoa_init.m.o	ed7f0a8680f2541e
+366	710	1677634271249245905	src/vendor/glfw-3.3.8/src/CMakeFiles/glfw.dir/cocoa_window.m.o	1322e9b9ad0decbf
+0	33	1677634270575981102	CMakeFiles/OpenGL.dir/src/main.cpp.o	f3ef51f023b9eefa
+0	368	1677634270907372627	src/vendor/glfw-3.3.8/src/CMakeFiles/glfw.dir/monitor.c.o	a111e1f7931d36c2
+1	369	1677634270903484859	src/vendor/glfw-3.3.8/src/CMakeFiles/glfw.dir/vulkan.c.o	d50dd41c5d175758
+1	371	1677634270911228352	src/vendor/glfw-3.3.8/src/CMakeFiles/glfw.dir/window.c.o	2dfbc76eb229b338
+0	365	1677634270903758194	src/vendor/glfw-3.3.8/src/CMakeFiles/glfw.dir/init.c.o	87ffabacae6715c1
+0	376	1677634270916008707	src/vendor/glfw-3.3.8/src/CMakeFiles/glfw.dir/input.c.o	99aefcbd0efb85f8
+368	549	1677634271088885438	src/vendor/glfw-3.3.8/src/CMakeFiles/glfw.dir/posix_thread.c.o	f01a6d15c7719148
+1	566	1677634271104948676	src/vendor/glfw-3.3.8/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o	c499fe075807f0e1
+369	695	1677634271233784544	src/vendor/glfw-3.3.8/src/CMakeFiles/glfw.dir/nsgl_context.m.o	21c65ba4d9f691b9
+371	553	1677634271094235212	src/vendor/glfw-3.3.8/src/CMakeFiles/glfw.dir/egl_context.c.o	c27be6766b822bdc
+33	568	1677634271105784347	src/vendor/glfw-3.3.8/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o	6cfd89f40f1500e5
+367	548	1677634271086966846	src/vendor/glfw-3.3.8/src/CMakeFiles/glfw.dir/cocoa_time.c.o	aaf572f4de0a188
+710	816	1677634271359613000	src/vendor/glfw-3.3.8/src/libglfw3.a	3eefdd0d8390441a
+12	46	1677634431439139721	CMakeFiles/OpenGL.dir/src/main.cpp.o	d1dc1629f827a04d
+48	138	1677634431531033674	OpenGL	908f2ced24c6d3df
